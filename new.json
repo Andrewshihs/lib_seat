@@ -1,0 +1,19 @@
+{
+  "stu":
+  [
+    {
+      "nickname": "xx1",
+      "url": "openid=",
+      "seat":22475 ,
+      "start": 480,
+      "end": 1320
+    },
+    {
+      "nickname": "xx2",
+      "url": "openid=",
+      "seat": 22605,
+      "start": 480,
+      "end": 1320
+    }
+  ]
+}
